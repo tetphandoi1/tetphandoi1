@@ -34,7 +34,7 @@ html[xmlns] .clearfix {
 html {
     height: 100%;
     background: radial-gradient(ellipse at bottom, #e82219 10%, #33201a 100%);
-    overflow: hidden;
+    overflow: scroll;
     text-align: center;
 }
 
